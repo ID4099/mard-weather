@@ -1,0 +1,62 @@
+body {
+    overflow: hidden;
+}
+
+.link-blue {
+    background-color: #0d86e9;
+    color: #ffffff;
+    transition: text-decoration 0.8s;
+}
+
+.link-blue:hover {
+    color: #2169bd;
+    background-color: #ffffff;
+    border: #0ea9e6;
+}
+
+button.btn-orange {
+    background: rgb(250, 108, 13);
+}
+
+.btn-orange {
+    background: rgb(250, 108, 13);
+}
+
+a.link-orange {
+    background: rgb(250, 108, 13);
+    border-radius: 6px;
+}
+
+.text-orange {
+    color: rgb(250, 108, 13);
+}
+
+.background-gradient-blue {
+    border-radius: 15px;
+    background: linear-gradient(0deg, #0d86e9, white);
+}
+
+.background-gradient-blue-bottom {
+    border-radius: 15px;
+    background: linear-gradient(to bottom, #0d86e9, white);
+}
+
+.background-gradient-gray-bottom {
+    border-radius: 15px;
+    background: linear-gradient(to bottom, #676f77, white);
+}
+
+.background-gradient-bluedark-bottom {
+    border-radius: 15px;
+    background: linear-gradient(to bottom, #467db4, white);
+}
+
+.background-gradient-orange-bottom {
+    border-radius: 15px;
+    background: linear-gradient(to bottom, #fa921b, white);
+}
+
+.background-gradient-orange {
+    border-radius: 15px;
+    background: linear-gradient(0deg, #fa921b, white);
+}
